@@ -1,4 +1,4 @@
-package adapter;
+package adapter.example1;
 
 public interface Xpay {
 

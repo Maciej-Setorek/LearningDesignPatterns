@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfef815e-abb6-4455-b053-cc38e9abe8f0" name="Changes" comment="Design Patterns learning">
+      <change afterPath="$PROJECT_DIR$/src/adapter/example1/PayD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/example1/RunAdapterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/example1/XpayToPayDAdapter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Adapter/PayD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Adapter/PayD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/adapter/PayD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/adapter/Xpay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/adapter/example1/Xpay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/adapter/XpayImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/adapter/example1/XpayImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673125397683</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Design Patterns learning">
+      <created>1673126831246</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673126831246</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
