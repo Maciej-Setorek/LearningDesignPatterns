@@ -4,31 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfef815e-abb6-4455-b053-cc38e9abe8f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/PayD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/Xpay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/XpayImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/AbstractFactoryPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/FactoryProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/RoundedRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/RoundedShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/RoundedSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/FactoryPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factory/Square.java" afterDir="false" />
+    <list default="true" id="cfef815e-abb6-4455-b053-cc38e9abe8f0" name="Changes" comment="Design Patterns learning">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Adapter/PayD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Adapter/PayD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +49,14 @@
       <option name="presentableId" value="Default" />
       <updated>1673120282114</updated>
     </task>
+    <task id="LOCAL-00001" summary="Design Patterns learning">
+      <created>1673125397683</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673125397683</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,5 +69,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Design Patterns learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Design Patterns learning" />
   </component>
 </project>
