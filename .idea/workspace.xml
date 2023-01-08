@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfef815e-abb6-4455-b053-cc38e9abe8f0" name="Changes" comment="Design Patterns learning">
-      <change afterPath="$PROJECT_DIR$/src/adapter/example1/PayD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/example1/RunAdapterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/example1/XpayToPayDAdapter.java" afterDir="false" />
+    <list default="true" id="cfef815e-abb6-4455-b053-cc38e9abe8f0" name="Changes" comment="Design Patterns learning - adapter">
+      <change afterPath="$PROJECT_DIR$/src/Decorator/example1/Broccoli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decorator/example1/Cheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decorator/example1/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decorator/example1/PizzaDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decorator/example1/SimplyNonVegPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decorator/example1/SimplyVegPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decorator/example1/TestDecoratorPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Iterator/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Iterator/ShapeIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Iterator/ShapeStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Iterator/TestIteratorPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/adapter/PayD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/adapter/Xpay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/adapter/example1/Xpay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/adapter/XpayImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/adapter/example1/XpayImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,13 +43,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/OneDrive/Pulpit/SpringLearning&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673126831246</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Design Patterns learning - adapter">
+      <created>1673129756434</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673129756434</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Design Patterns learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="Design Patterns learning" />
+    <MESSAGE value="Design Patterns learning - adapter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Design Patterns learning - adapter" />
   </component>
 </project>
